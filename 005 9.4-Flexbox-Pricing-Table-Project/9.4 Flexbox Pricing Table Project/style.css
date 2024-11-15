@@ -1,0 +1,13 @@
+.pricing-container{
+  /* text-align: center; */
+  margin-left: 370px;
+  margin-top: 250px;
+  width: fit-content;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.pricing-plan{
+  background-color: aquamarine;
+}
